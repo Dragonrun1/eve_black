@@ -1,0 +1,16 @@
+{
+    "name": "Dragonrun1/eve_black",
+    "description": "Used to work with new Eve Online Oceanus ship black files",
+    "minimum-stability": "dev",
+    "license": "GPL3+",
+    "authors": [
+        {
+            "name": "Michael Cummings",
+            "email": "mgcummings@yahoo.com"
+        }
+    ],
+    "require": {
+        "ext-zip": "*",
+        "symfony/yaml": "2.5.x-dev"
+    }
+}
